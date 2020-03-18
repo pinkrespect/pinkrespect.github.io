@@ -1,42 +1,24 @@
 ---
-title: Yet Another Sample Page
-published: false
+title: 첫 게시글
+published: true
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+기술적인 용도로 사용할 생각을 가지고 블로그를 만들어야겠다고 생각만 한 지 6개월은 지났다. 회사에서 공부한 내용을 내 스스로 정리하고 공부할 순 없을까?
 
-[Link to another page](another-page).
+# [](#header-1)공부는 어려워 @_@
 
-There should be whitespace between paragraphs.
+언제나 말하는 거지만 정상적인 사람이라면 공부는 어려운게 당연하다.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# [](#header-1)Header 1
+# [](#header-2)아이고 언제 다 테스트해보냐
+솔직히 테스트가 더 어렵다.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## [](#header-3)Header 3
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### [](#header-3)Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```python
+print(“Hello, World”)
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### [](#header-4)Header 4
 
