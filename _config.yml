@@ -1,9 +1,9 @@
-title: Hacker-Blog
+title: Remember_your_sisterhood
 description: "A Jekyll Blog Theme For Hackers"
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "LittleSister"
+  email: "miss.sonagi@gmail.com"
+  url: "https://pinkrespect.github.io"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "SomeHacker"
+owner : "LittleSister-Maisie"
 year : "2020"
