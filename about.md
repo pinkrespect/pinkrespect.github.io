@@ -14,7 +14,7 @@ title: About
 ## 교육 Education
 - 전주 대학교 Jeonju Univ. - 공과대학 컴퓨터 공학과 학사 2015.03 – 2020.08(졸업 예정)
 
-
+---------------------
 ## 경험 Experience
 ### 학과 동아리 활동
    - DB LAB(담당 교수: 이인홍 교수)
@@ -74,9 +74,11 @@ title: About
         * 수상 일자: 2015.08.28
 <br>
 
+-----------------
 ## 기술 Skills
 ### 언어
     * Python3, JAVA, ECMAScript
+
 ### 환경
     * Unix-like system(Arch Linux, Manjaro Linux, Ubuntu)
     * macOs
