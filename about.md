@@ -74,17 +74,17 @@ title: About
         * 수상 일자: 2015.08.28
 <br>
 
-### 기술 Skills
-#### 언어
+## 기술 Skills
+### 언어
     * Python3, JAVA, ECMAScript
-#### 환경
+### 환경
     * Unix-like system(Arch Linux, Manjaro Linux, Ubuntu)
     * macOs
     * CMD(bash, zsh) + iterm2
     * Pylint, ESLint, Vimplug, Zplug
     * Vim(Text Editor)
 
-#### 기타
+### 기타
     - Container Orchestration tool
         * Docker & Kubernetes
     - WEB
