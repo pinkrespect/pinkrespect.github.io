@@ -88,7 +88,7 @@ title: About
 
 3. grad-CAM
    - 결함 지역 추천을 gradient로 표현하여 출력하는 프로젝트
-   - 참고 논문: [grad-CAM](https://arxiv.org/abs/1610.02391)
+   - 참고 논문: [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391)
      - 신경망(Neural Network)의 주목도(Attention)를 표현할 수 있고, 레이어 별로 주목하는 위치가 다르다는 것을 알 수 있었음
    - 사용 기술
      - Shell Script, Python3+pytorch+TensorboardX+Matplotlib
