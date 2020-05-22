@@ -5,6 +5,7 @@ title: About
 
 # 김 양선 Yangseon Kim
 ## Contact
+
 - Miss.sonagi@gmail.com / 010-5764-5025
 - github: http://github.com/pinkrespect
 - acmicpc: https://www.acmicpc.net/user/didee
@@ -13,26 +14,31 @@ title: About
 
 ## 기술 Skills
 ### 언어
-    * Python3, JAVA, ECMAScript
+
+- Python3, JAVA, ECMAScript
 
 ### 환경
-    * Unix-like system(Arch Linux, Manjaro Linux, Ubuntu)
-    * macOs
-    * CMD(bash, zsh) + iterm2
-    * Pylint, ESLint, Vimplug, Zplug
-    * Vim(Text Editor)
+
+- Unix-like system(Arch Linux, Manjaro Linux, Ubuntu)
+- macOs
+- CMD(bash, zsh) + iterm2
+- Pylint, ESLint, Vimplug, Zplug
+- Vim(Text Editor)
 
 ### 기타
-    - Container Orchestration tool
-        * Docker & Kubernetes
-    - WEB
-        * Vue.js(JavaScript Framework)
-        * Flask(Python Web Framework)
-        * Django(Python Web Framework)
-        * Nginx(Web Server)
-        * AWS(Amazon Web Service)
-    - ETC
-        * GIT (Version Control System)
+
+- Container Orchestration tool
+  * Docker & Kubernetes
+
+- WEB
+  * Vue.js(JavaScript Framework)
+  * Flask(Python Web Framework)
+  * Django(Python Web Framework)
+  * Nginx(Web Server)
+  * AWS(Amazon Web Service)
+
+- ETC
+  * GIT (Version Control System)
 
 ----------------------
 
@@ -56,11 +62,11 @@ title: About
       - Video를 Frame 별로 잘라 각각 Style Transfer를 시키는 방식은, 배경이나 고정되어 있는 물체를 움직이는 것처럼 보이게 하기 때문에, ReCoNet의 방식이 더 효율적
   - 사용 기술
     - Shell Script, (사용자를 위한)Flask+Jinja2, Python3+pytorch+Tensorflow
+
 <br>
 
 - 2D 이미지 조작, 수정(2D Image Inpainting)
   - 진행 중
-
 
 ### 딥인스펙션 인공지능 연구실
 
@@ -76,12 +82,14 @@ title: About
     - 상황별 클래스 확률의 조정(Contextual Class Probability Adjustment)이 다른 Reinforcement Learning과의 차이점
   - 사용 기술
     - Shell Script, Python3+Pytorch
+
 <br>
 
 - LSTM
   - [grad-CAM](https://arxiv.org/abs/1610.02391)에서 추출된 단어를 통한 문장 생성 프로젝트
   - 사용 기술
     - Python3+pytorch
+
 <br>
 
 - grad-CAM
@@ -90,6 +98,7 @@ title: About
     - 신경망(Neural Network)의 주목도(Attention)를 표현할 수 있고, 레이어 별로 주목하는 위치가 다르다는 것을 알 수 있었음
   - 사용 기술
     - Shell Script, Python3+pytorch+TensorboardX+Matplotlib
+
 <br>
 
 - Meta-Learning
