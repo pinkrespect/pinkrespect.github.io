@@ -64,7 +64,6 @@ title: About
     - Shell Script, (사용자를 위한)Flask+Jinja2, Python3+pytorch+Tensorflow
 
 <br>
-
 - 2D 이미지 조작, 수정(2D Image Inpainting)
   - 진행 중
 
@@ -84,14 +83,12 @@ title: About
     - Shell Script, Python3+Pytorch
 
 <br>
-
 - LSTM
   - [grad-CAM](https://arxiv.org/abs/1610.02391)에서 추출된 단어를 통한 문장 생성 프로젝트
   - 사용 기술
     - Python3+pytorch
 
 <br>
-
 - grad-CAM
   - 결함 지역 추천을 gradient로 표현하여 출력하는 프로젝트
   - 참고 논문: [grad-CAM](https://arxiv.org/abs/1610.02391)
@@ -100,7 +97,6 @@ title: About
     - Shell Script, Python3+pytorch+TensorboardX+Matplotlib
 
 <br>
-
 - Meta-Learning
   - 이미지의 수를 적게 학습할 수 있는지에 관건을 둔 프로젝트
   - 그래프 이론(Graph Theory)에 기반을 두고 기존 코드 확인 및 트레이닝 & 인퍼런싱
@@ -120,52 +116,52 @@ title: About
     * 실습실 컴퓨터 40대 관리 - 실습실 컴퓨터 관리 및 초기화, 필요 프로그램(Oracle DB) 설치
     * DB LAB 전용 Windows Server 관리 - 개인 폴더 관리 및 권한 설정, 백업 진행
     * DB LAB 소유 컴퓨터 관리 - 소유 신고, 정적 IP 배당
-<br>
 
+<br>
 ### 수업 활동
 - 소프트웨어 기초 설계 – 공강 강의실 알리미
    * 사용 언어: C
    * 현재 수업이 없어 비어있는 공강 강의실을 알려주는 프로그램 제작
    * 직책: 팀장
    * PPT 제작 및 발표, 프로그램 UI 및 클래스 단위 노동 배분, 전체/ 부분 프로그램의 디버그 진행
-<br>
 
+<br>
 - 생활 속의 빅 데이터 이해와 분석 – 워드 클라우드 제작
    * 사용 언어: R, Tableau
    * 전체 단어에서 사용 빈도수가 높은 순으로 워드 클라우드 제작
-<br>
 
+<br>
 - 정보보호개론, 수치 해석 - FTP 서버 관리
    * 수업에 필요한 PPT 업로드
    * Windows 환경, Apache 이용
-<br>
 
+<br>
 - 연세대학교 학점 교류(3학년 2학기, 중도 휴학)
    * 알고리즘, 시스템 프로그래밍, 프로그래밍 언어 수강
-<br>
 
+<br>
 - 개인 프로젝트(종합 설계) - WEB과 연동되는 POS 시스템
    * 사용 언어: JAVA, Vue.js, WEB
    * 직책: 팀원
    * Vue.js 및 WEB 개발
-<br>
 
+<br>
 ### 외부 활동
 - 페미위키 – 서버 관리
     * 로드 밸런싱 및 서버 이전(Lightsail -> EC2)
-<br>
 
+<br>
 ### 수상 경력 Awards
 - 성적 우수(최우등)
     * 시상: 총장
     *  수상 일자: 2016.08.26
-<br>
 
+<br>
 - 성적 우수(우등)
     * 시상: 학장
     * 수상 일자: 2016.02.26
-<br>
 
+<br>
 - 성적 우수(우등)
     * 시상: 학장
     * 수상 일자: 2015.08.28
