@@ -54,7 +54,7 @@ title: About
 
 #### 프로젝트
 
-- 스타일 전이 학습(Style Transfer Learning)
+1. 스타일 전이 학습(Style Transfer Learning)
   - 2D Image, Video에 다른 이미지(주로 그림)의 스타일을 입히는 프로젝트
   - 참고 논문
     - [Style Transfer by Relaxed Optimal Transport and Self-Similarity](https://arxiv.org/pdf/1904.12785.pdf)
@@ -63,11 +63,9 @@ title: About
   - 사용 기술
     - Shell Script, (사용자를 위한)Flask+Jinja2, Python3+pytorch+Tensorflow
 
-<br>
-- 2D 이미지 조작, 수정(2D Image Inpainting)
+2. 2D 이미지 조작, 수정(2D Image Inpainting)
   - 진행 중
 
-<br>
 ### 딥인스펙션 인공지능 연구실
 
 - 2019.11 - 2020.02
@@ -76,29 +74,26 @@ title: About
 
 #### 프로젝트
 
-- drl-RPN
+1. drl-RPN
   - 결함 지역 추천을 강화 학습(Reinforcement Learning)으로 할 수 있는지에 대한 프로젝트
   - 참고 논문: [Deep Reinforcement Learning of Region Proposal Network for Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Pirinen_Deep_Reinforcement_Learning_CVPR_2018_paper.pdf) 
     - 상황별 클래스 확률의 조정(Contextual Class Probability Adjustment)이 다른 Reinforcement Learning과의 차이점
   - 사용 기술
     - Shell Script, Python3+Pytorch
 
-<br>
-- LSTM
+2. LSTM
   - [grad-CAM](https://arxiv.org/abs/1610.02391)에서 추출된 단어를 통한 문장 생성 프로젝트
   - 사용 기술
     - Python3+pytorch
 
-<br>
-- grad-CAM
+3. grad-CAM
   - 결함 지역 추천을 gradient로 표현하여 출력하는 프로젝트
   - 참고 논문: [grad-CAM](https://arxiv.org/abs/1610.02391)
     - 신경망(Neural Network)의 주목도(Attention)를 표현할 수 있고, 레이어 별로 주목하는 위치가 다르다는 것을 알 수 있었음
   - 사용 기술
     - Shell Script, Python3+pytorch+TensorboardX+Matplotlib
 
-<br>
-- Meta-Learning
+3. Meta-Learning
   - 이미지의 수를 적게 학습할 수 있는지에 관건을 둔 프로젝트
   - 그래프 이론(Graph Theory)에 기반을 두고 기존 코드 확인 및 트레이닝 & 인퍼런싱
 
