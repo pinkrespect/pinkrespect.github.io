@@ -67,6 +67,7 @@ title: About
 - 2D 이미지 조작, 수정(2D Image Inpainting)
   - 진행 중
 
+<br>
 ### 딥인스펙션 인공지능 연구실
 
 - 2019.11 - 2020.02
