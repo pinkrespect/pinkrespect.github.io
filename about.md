@@ -41,9 +41,11 @@ title: About
 - Database
   * MYSql 8.0
   * DBeaver, Sequel Pro
+  * Postman (HTTP data transfer test)
 
 - ETC
   * GIT (Version Control System)
+  * GIT Actions
   * JIRA (Project Manage)
 
 ----------------------
