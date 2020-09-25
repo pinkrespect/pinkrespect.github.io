@@ -36,17 +36,38 @@ title: About
   * Django(Python Web Framework)
   * Nginx(Web Server)
   * AWS(Amazon Web Service)
+  * GCP (Google Cloud Platform)
+
+- Database
+  * MYSql 8.0
 
 - ETC
   * GIT (Version Control System)
+  * JIRA (Project Manage)
 
 ----------------------
 
 ## 경력 Carrier
 역순 정렬되어 있습니다.
 
+### (주)딥헬릭스
+2020.09 - 재직중
+
+Backend Developer(연구원)
+
+물리 서버 관리 및 클라우드 서버 관리를 담당합니다. 물리 서버의 경우 AI 프로젝트에 적합한 환경으로 구성하는데 Terraform을 사용합니다. WEB Backend 작업의 경우, Frontend에서 원하는 데이터를 RESTFul API를 통해 Json Data로 보냅니다.
+
+#### 프로젝트
+1. 딥헬릭스 에듀
+    - 온라인 강의 플랫폼 사이트 제작 프로젝트
+    - 사용 기술
+        - Docker + Kubernetis, AWS, Python3 + Flask, MYSql, SQLAlchemy
+
+2. 물리 서버 구성
+    - 진행 중
+
 ### 에스알유니버스
-2020.03 - 재직중
+2020.03 - 2020.07
 
 딥러닝 연구원
 
@@ -63,7 +84,6 @@ title: About
         - Shell Script, (사용자를 위한)Flask+Jinja2, Python3+pytorch+Tensorflow
 
 2. 2D 이미지 조작, 수정(2D Image Inpainting)
-    - 진행 중
 
 ### 딥인스펙션 인공지능 연구실
 2019.11 - 2020.02
