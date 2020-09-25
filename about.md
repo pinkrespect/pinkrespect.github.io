@@ -40,6 +40,7 @@ title: About
 
 - Database
   * MYSql 8.0
+  * DBeaver, Sequel Pro
 
 - ETC
   * GIT (Version Control System)
