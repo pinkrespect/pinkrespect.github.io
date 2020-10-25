@@ -32,21 +32,29 @@ title: About
 
 - WEB
   * Vue.js(JavaScript Framework)
+  
+- Backend stack
+  * GraphQL - Strawberry, Graphene
+  * RESTFul API
   * Flask(Python Web Framework)
   * Django(Python Web Framework)
-  * Nginx(Web Server)
+  * Nginx, AWSGI, ASGI, GUnicorn
+  * Uvicorn
+  
+- Cloud Service
   * AWS(Amazon Web Service)
-  * GCP (Google Cloud Platform)
+  * GCP(Google Cloud Platform)
+  * MS Azure
 
 - Database
-  * MYSql 8.0
+  * MYSql 5.7, 8.0
   * DBeaver, Sequel Pro
   * Postman (HTTP data transfer test)
 
 - ETC
   * GIT (Version Control System)
   * GIT Actions
-  * JIRA (Project Manage)
+  * JIRA (Project Manage) & Kanban system
 
 ----------------------
 
@@ -54,7 +62,7 @@ title: About
 역순 정렬되어 있습니다.
 
 ### (주)딥헬릭스
-2020.09 - 재직중
+2020.09 - 2020-10
 
 Backend Developer(연구원)
 
@@ -164,6 +172,7 @@ Backend Developer(연구원)
 - 페미위키 – 서버 관리
    * 로드 밸런싱 및 서버 이전(Lightsail -> EC2)
 
+- Python3 GraphQL Library ![*Strawberry*](https://strawberry.rocks/) Contributer
 
 ### 수상 경력 Awards
 - 성적 우수(최우등)
